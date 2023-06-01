@@ -1,0 +1,2 @@
+# typescript-leaning
+learning typescript
