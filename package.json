@@ -1,0 +1,20 @@
+{
+  "name": "typescript-leaning",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.195",
+    "parcel": "^2.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
